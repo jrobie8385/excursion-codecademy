@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: white;
+}
+
+.pageTitle {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download {
+  color: aquamarine;
+}
+
+.text {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p.aboveImgText {
+  color: gray;
+  font-size: 21px;
+}
+
+h5.copyrightText {
+  color: gray;
+  text-align: right;
+}
